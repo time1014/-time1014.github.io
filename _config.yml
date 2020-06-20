@@ -29,21 +29,7 @@ social-network-links:
   email: "tangu1234@naver.com"
   github: https://github.com/time1014/hst2020
   rss: true
-#  reddit: yourname
-#  linkedin: daattali
-#  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
-#  youtube: user/deanat78
-#  spotify: yourname
-#  telephone: +14159998888
-#  steam: deanat78
-#  twitch: yourname
-#  yelp: yourname
-#  telegram: yourname
-#  calendly: yourname
-#  mastodon: instance.url/@username
+#  reddit: time1014
 # --- General options --- #
 # Select which social network share links to show in posts
 share-links-active:
