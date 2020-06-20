@@ -1,14 +1,7 @@
 ---
 layout: post
-title: My cat
-subtitle: cat
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [animal, cat]
-tags: [test]
-comments: true
+title: Flake it till you make it
+subtitle: Excerpt from Soulshaping by Jeff Brown
+cover-img: /assets/img/path.jpg
+tags: [books, test]
 ---
-
-
-**My cat**
-
-![고양이](/images/고양이.jpg)
