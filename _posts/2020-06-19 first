@@ -1,8 +1,14 @@
 ---
 layout: post
-title: 고양이
-subtitle: Excerpt from Soulshaping by Jeff Brown
-cover-img: /assets/img/cat.jpg
-tags: [cat, test]
+title: My cat
+subtitle: cat
+gh-repo: daattali/beautiful-jekyll
+gh-badge: [animal, cat]
+tags: [test]
+comments: true
 ---
+
+
+**My cat**
+
 ![고양이](./images/cat.jpg)
