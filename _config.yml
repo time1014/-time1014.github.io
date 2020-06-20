@@ -39,9 +39,7 @@ round-avatar: true
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
   email: "tangu1234@naver.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+  github: https://github.com/time1014/hst2020
   rss: true
 #  reddit: yourname
 #  linkedin: daattali
